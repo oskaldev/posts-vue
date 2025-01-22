@@ -4,10 +4,15 @@
       "@/*": [
         "./src/*"
       ]
-    }
+    },
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "target": "ES6",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
   },
   "exclude": [
     "node_modules",
     "dist"
-  ]
+  ],
 }

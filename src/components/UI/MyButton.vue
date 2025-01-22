@@ -12,7 +12,7 @@
 
 <style scoped>
   .btn {
-    margin-top: 15px;
+    margin: 5px;
     align-self: flex-end;
     padding: 10px 15px;
     background: none;
