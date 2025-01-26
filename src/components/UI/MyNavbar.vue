@@ -5,11 +5,17 @@
       <RouterLink to="/">
         <MyButton>Главная</MyButton>
       </RouterLink>
+      <RouterLink to="/about">
+        <MyButton>О сайте</MyButton>
+      </RouterLink>
       <RouterLink to="/posts">
         <MyButton>Посты</MyButton>
       </RouterLink>
-      <RouterLink to="/about">
-        <MyButton>О сайте</MyButton>
+      <RouterLink to="/store">
+        <MyButton>Посты store</MyButton>
+      </RouterLink>
+      <RouterLink to="/composition">
+        <MyButton>Посты composition API</MyButton>
       </RouterLink>
 
     </div>
